@@ -1,0 +1,34 @@
+figure.dpi: 300
+savefig.dpi: 300
+
+figure.facecolor: eae8e4
+axes.facecolor: eae8e4
+axes.spines.right: False
+axes.spines.top: False
+
+font.family: Arial
+font.weight: bold
+axes.labelweight: bold
+font.sans-serif: sans-serif
+
+xtick.direction: in
+xtick.minor.visible: True
+
+ytick.direction: in
+ytick.minor.visible: True
+
+lines.solid_capstyle: butt
+lines.dash_capstyle: butt
+
+axes.xmargin: 0
+axes.ymargin: 0.05
+axes.prop_cycle: cycler('color', ['9e3d3d', 'e66d22', 'c2a236'])
+
+errorbar.capsize: 3
+
+legend.frameon: true
+legend.framealpha: 1.0
+legend.edgecolor: black
+
+#patch.edgecolor: black
+#patch.force_edgecolor: True
