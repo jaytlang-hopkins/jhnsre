@@ -1,4 +1,6 @@
-# JHNSRE: The JHU Near-Space Radiation Experiment
+# The JHU Near-Space Radiation Experiment
+
+![The JHNSRE Logo](figures/logo.png)
 
 A balloon-borne Geiger counter that set out to measure the Pfotzer maximum,
 failed in an electrically interesting way, and accidentally measured a
@@ -51,6 +53,7 @@ analysis.pdf        The above, but instructor readable
 common.py           Utility functions I wrote for all our physics labs
 data/               Minute-binned flight data. The full JSON is 2.6GB. You don't want it.
 figures/            Plots used on the poster
+for_school.pdf      Mission briefing sent to elementary school students (:
 LICENSE             GPL-3.0
 Makefile
 memes/              Work in progress.
